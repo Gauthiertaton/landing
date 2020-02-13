@@ -1,0 +1,21 @@
+.footer{
+  text-align: center;
+  padding: 60px;
+  background-color: #333333;
+  border: solid #f1f3f4;
+}
+
+.reseau{
+  text-align: center;
+}
+
+.reseau i{
+  font-size: 30px;
+  color: #1EDD88;
+  opacity: 0.6;
+}
+
+.footer p{
+  color: white;
+  opacity: 0.7;
+}
